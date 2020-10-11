@@ -1,2 +1,2 @@
 # dictionary-
-dictionary project in python
+A user friendly dictionary in python having multiple features.
