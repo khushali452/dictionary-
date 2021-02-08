@@ -1,2 +1,2 @@
-# dictionary-
-A user friendly dictionary in python having multiple features.
+# dictionary
+It provides user the perfect description of word entered using JSON file and other python libraries.
